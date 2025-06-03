@@ -53,7 +53,7 @@ const Company = () => {
 
             
             <div className="relative z-10 px-6 pt-32 max-w-xs lg:hidden  ">
-                <h1 className="text-[40px] font-bold text-[#493E3E] font leading-tight mb-3 -mt-14">
+                <h1 className="text-[40px] font-bold text-[#493E3E] font leading-tight mb-3 -mt-14 font">
                     The Company
                 </h1>
             </div>
