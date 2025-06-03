@@ -36,8 +36,8 @@ const page = () => {
             </div>
 
             {/* Content aligned to the left */}
-            <div className="relative z-10 px-6 pt-10 max-w-xs lg:hidden ">
-                <h1 className="text-[50px] font-bold text-[#493E3E] font leading-tight mb-3">
+            <div className="relative z-10 px-6 pt-10 max-w-xs lg:hidden">
+                <h1 className="text-[50px] font-bold text-[#493E3E] font leading-tight mb-3 font">
                    Fruit
                 </h1>
                 </div>
